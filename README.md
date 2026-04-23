@@ -35,6 +35,10 @@ Each folder contains merged PDF files for that year.
 - Exam preparation
 - Finding repeated questions across years
 
+- Nptel previous question
+- Programming in java  nptel
+- Nptel java pyqs
+
 ## Keywords
 NPTEL Programming in Java, previous year questions, NPTEL Java assignments, 12 week questions, NPTEL Java practice questions.
 
